@@ -24,6 +24,8 @@ rake db:migrate
 ```
 rake db:seed
 ```
-
+```
+rails s
+```
 ## Informações
 Este é um trabalho para a disciplina Orientação à Objetos, com aulas ministradas na Faculdade Gama - UnB pelo prof. Renato Coral.
