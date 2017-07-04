@@ -1,3 +1,88 @@
 body {
-    background-image: url("http://juuj.org/wp-content/uploads/2016/12/amazing-vintage-shop-furniture-with-26.jpg");
+    /*background-image: url("http://juuj.org/wp-content/uploads/2016/12/amazing-vintage-shop-furniture-with-26.jpg");
+    */
+    background-image: url("https://s-media-cache-ak0.pinimg.com/originals/6d/88/ba/6d88ba056ad66378e8ec95c341004065.jpg");
+}
+h1 {
+    color: white
+}
+h2 {
+    color: white
+}
+h3 {
+    color: white
+}
+h4 {
+    color: white
+}
+h5 {
+    color: white
+}
+
+h6 {
+    color: white
+}
+
+.odd {
+    color: white
+}
+
+span {
+    color: lightgray
+
+}
+
+#page_content {
+    color: white
+}
+
+div {
+    color: white
+}
+
+.panel-footer {
+    background-color: black
+}
+
+.info {
+    color: #484b51
+}
+.well {
+    color: #484b51
+}
+
+th {
+    color: #484b51
+}
+
+td {
+    color: #484b51
+}
+
+td h5 {
+    color: #484b51
+}
+
+label {
+    color: #484b51
+}
+
+td strong {
+    color: lightgray
+}
+
+.breadcrumb {
+    background-color: black
+}
+
+h4 a {
+    color: lightgray
+}
+
+.lead.text-primary.cart-item-price {
+    color: lightgray
+}
+
+.lead.text-primary.cart-item-total {
+    color: lightgray
 }
